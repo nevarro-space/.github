@@ -1,11 +1,9 @@
 # Nevarro
 
-Welcome to our GitHub page!
-
-[Website](https://nevarro.space)
-
 Nevarro is a company which provides a variety of computing and educational
 services.
+
+[Website](https://nevarro.space)
 
 ### Chat
 
