@@ -1,7 +1,7 @@
 # Nevarro
 
 Nevarro is an company dedicated to building great open source software. It's run
-by me, [Sumner](https://sumnerevans.com), to provide a variety of computing and
+by me, [@sumnerevans](https://github.com/sumnerevans), to provide a variety of computing and
 educational services.
 
 ### Open Source Work
