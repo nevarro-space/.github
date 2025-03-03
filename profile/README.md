@@ -32,11 +32,16 @@ If you would like a Matrix account on the nevarro.space homeserver, please
 contact me at `admin [at] nevarro [dot] space` and I will consider your request
 and give you a monthly price quote.
 
-### Community Hosting
+### Community Contributions
 
 Nevarro donates hosting for the following projects:
 
 *  The [Mines HSPC](https://mineshspc.com) website.
+
+Nevarro sponsors the following projects and individuals who maintain software that we use to provide our services:
+
+* [Martin Tournoij](https://github.com/arp242) @ $5/mo for [goatcounter.com](https://goatcounter.com) which we use for website analytics.
+* [neovim](https://github.com/neovim) @10/mo to support continued developement of the primary text editor we use.
 
 ### Support Nevarro
 
